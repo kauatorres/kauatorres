@@ -1,4 +1,4 @@
-Hi 👋 My name is Kauã
+Olá 👋 Meu nome é Kauã Torres!
 =====================
 
 Web Developer, back-end
