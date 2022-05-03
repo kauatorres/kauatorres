@@ -6,8 +6,8 @@ Web Developer, back-end
 
 Aos meus 13 anos, comecei a fazer um mini curso de programação e encontrei uma paixão pelo desenvolvimento de back-end!
 
-* 🌍  I'm based in Porto Alegre - RS (Brazil) 🇧🇷
-* ✉️  You can contact me at [kaua.3010@gmail.com](mailto:kaua.3010@gmail.com)
+* 🌍  Porto Alegre - RS (Brazil) 🇧🇷
+* ✉️  Contato: [kaua.3010@gmail.com](mailto:kaua.3010@gmail.com)
 
 ### Skills
 
