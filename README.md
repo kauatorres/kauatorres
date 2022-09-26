@@ -4,7 +4,7 @@ Olá 👋 Meu nome é Kauã Torres!
 Web Developer, back-end
 -----------------------
 
-Aos meus 13 anos, comecei a fazer um mini curso de programação e encontrei uma paixão pelo desenvolvimento de back-end!
+Aos meus 13 anos, comecei a fazer um mini curso de programação e encontrei uma paixão pelo desenvolvimento web!
 
 * 🌍  Porto Alegre - RS (Brazil) 🇧🇷
 * ✉️  Contato: [kaua.3010@gmail.com](mailto:kaua.3010@gmail.com)
