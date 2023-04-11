@@ -5,6 +5,7 @@ Web Developer, back-end
 -----------------------
 
 * 🌍  Porto Alegre - RS (Brazil) 🇧🇷
+* 🖥️  Estudante - Analise e desenvolvimento de Sistemas (UNIRITTER)
 * ✉️  Contato: [kaua.3010@gmail.com](mailto:kaua.3010@gmail.com)
 
 ### Skills
