@@ -7,7 +7,7 @@ Web Developer, back-end
 * 🌍  Porto Alegre - RS (Brazil) 🇧🇷
 * 🖥️  Estudante - Analise e desenvolvimento de Sistemas
 * ✉️  Contato: [kaua.3010@gmail.com](mailto:kaua.3010@gmail.com)
-* 🌐  Portifólio: <a href="https://kauatorres.github.io/" target="_blank">https://kauatorres.github.io/</a>
+* 🌐  Portfólio: <a href="https://kauatorres.github.io/" target="_blank">https://kauatorres.github.io/</a>
 
 ### Skills
 
