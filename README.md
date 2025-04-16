@@ -1,7 +1,7 @@
 Olá 👋 Meu nome é Kauã Torres!
 =====================
 
-Web Developer, back-end
+Software Enginner
 -----------------------
 
 * 🌍  Porto Alegre - RS (Brazil) 🇧🇷
